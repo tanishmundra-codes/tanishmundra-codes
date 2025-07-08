@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-mundra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishmundra2@gmail.com) 
 
 ## **💻 Tech Stack:**
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <table>
 <tr>
@@ -19,7 +18,7 @@
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,react,,nodejs,express,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=javascript,java&theme=dark"></td>
 </tr>
 <tr>
@@ -31,8 +30,6 @@
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
 </tr>
 </table>
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## **Thank you for visiting!**  <br>
 
