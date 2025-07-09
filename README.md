@@ -31,15 +31,6 @@
 ## **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-mundra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishmundra2@gmail.com) 
 
-<div>
-	
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanishmundra-codes/tanishmundra-codes/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
-
 
 ## **Thank you for visiting!**  <br>
 
