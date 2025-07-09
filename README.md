@@ -31,11 +31,11 @@
 ## **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-mundra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishmundra2@gmail.com) 
 
-<div align="center">
+<div>
 	
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanishmundra-codes/tanishmundra-codes/output/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
