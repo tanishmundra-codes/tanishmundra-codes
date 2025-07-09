@@ -1,7 +1,7 @@
 
-<h1 style="align: center;"> 
+<div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00C853&width=535&lines=Hi%2C+I'm+Tanish%F0%9F%91%8B;Let's+Connect!"/>
-</h1> 
+</div> 
  
 
 ## 💫 About Me:
@@ -30,6 +30,15 @@
 
 ## **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-mundra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishmundra2@gmail.com) 
+
+<div align="center">
+	
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
 
 
 ## **Thank you for visiting!**  <br>
