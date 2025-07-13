@@ -1,40 +1,12 @@
-
-<div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00C853&width=535&lines=Hi%2C+I'm+Tanish%F0%9F%91%8B;Let's+Connect!"/>
-</div> 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
  
 
-## 💫 About Me:
-💻 Currently Learning: DSA in C++ & Web Development (MERN STACK)<br>🛠 Building: Projects on Web Dev <br>📌 Fun Fact: I love exploring new tech
+I'm Tanish, a full-stack developer based in India.
 
-## **💻 Tech Stack:**
+I love turning ideas into lightning-fast, accessible interfaces that feel effortless.
 
-<table>
-<tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,java&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cybersecurity</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,vercel,netlify&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
-</tr>
-</table>
+Outside of coding, you'll find me playing video games, badminton, or hitting the gym. I also yap on Twitter sharing tech related content and documenting my journey.
 
-## **🌐 Socials:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-mundra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishmundra2@gmail.com) 
+Fun Fact:
+I like to code with a cup of tea. 🍵
 
-
-## **Thank you for visiting!**  <br>
-
----
-[![](https://visitcount.itsvg.in/api?id=tanishmundra-TM&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
