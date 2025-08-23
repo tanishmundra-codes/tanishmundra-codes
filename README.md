@@ -10,3 +10,4 @@ Outside of coding, you'll find me playing video games, badminton, or hitting the
 #### Fun Fact:
 
 I like to code with a cup of tea. 🍵
+
