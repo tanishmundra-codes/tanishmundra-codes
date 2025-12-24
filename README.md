@@ -1,4 +1,4 @@
-# <img width="1792" height="576" alt="Gemini_Generated_Image_96sd4z96sd4z96sd" src="https://github.com/user-attachments/assets/eb8af0e6-eea4-43f6-9543-25cc936e1968" />
+# <img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/fa126508-1b1b-401e-b0fc-936a97df3ec7" /> 
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
